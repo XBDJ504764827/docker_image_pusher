@@ -4,3 +4,4 @@ python:alpine3.20
 adguard/adguardhome:v0.107.52
 joedwards32/cs2:latest
 cm2network/csgo:latest
+gameservermanagers/gameserver:csgo
