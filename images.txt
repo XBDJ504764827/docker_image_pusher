@@ -6,3 +6,4 @@ joedwards32/cs2:latest
 cm2network/csgo:latest
 gameservermanagers/gameserver:csgo
 cm2network/csgo:sourcemod
+mdillon/csgo:latest
